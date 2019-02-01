@@ -28,6 +28,6 @@ function reverse(str) {
 
 }
 
-//console.log(reverse('apple'))
-//console.log('HELLO')
-module.exports = reverse;
+console.log(reverse('apple'))
+console.log('HELLO')
+//module.exports = reverse;
